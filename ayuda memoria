@@ -1,0 +1,7 @@
+git init (crea repositorio local)
+git config --global user.name "patogonza029"
+git config --global user.email "patogonza.geo@gmail.com"
+git config --global -e 
+git add . (pasa los archivos al area de ensayo)
+git status (veo el etado de los archivos, si estan para pasar a commit)
+git commit (copiar al repositorio local)
